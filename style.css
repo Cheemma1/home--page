@@ -173,7 +173,7 @@ display: flex;
     width: 20%;
     object-fit: cover;
 }
-.section2-flex h1{
+.section2-flex h3{
     color: var(--clr--Grayishblue);
     font-size: var(--fs--step-4);
     font-weight: var(--fontweight-2);
